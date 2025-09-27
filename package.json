@@ -1,0 +1,29 @@
+{
+  "name": "dev-patterns",
+  "version": "1.0.0",
+  "description": "A comprehensive collection of development patterns from vanilla JavaScript to React patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "echo \"Development server not configured yet\"",
+    "build": "echo \"Build script not configured yet\""
+  },
+  "keywords": [
+    "design-patterns",
+    "javascript",
+    "react",
+    "performance",
+    "web-development",
+    "patterns",
+    "architecture"
+  ],
+  "author": "DevPatterns Contributors",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctrl-hack/DevPatterns.git"
+  },
+  "homepage": "https://github.com/ctrl-hack/DevPatterns#readme"
+}
